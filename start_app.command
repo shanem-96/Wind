@@ -17,3 +17,6 @@ echo ""
 # Start the Streamlit app
 python3 -m streamlit run wind_turbines_app.py --server.headless false --server.port 8501
 
+
+
+
